@@ -5,3 +5,11 @@
 - Esther Mallen
 
 ## Abstract:
+
+## Problem Description:
+
+## Background & Novelty:
+
+## Dataset Description:
+
+## Proposed Visualization Approach:
