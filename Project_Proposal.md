@@ -1,7 +1,7 @@
 # Final Project Proposal
 
-## Team Members
+## Team Members:
 - Jezlea Ortega
 - Esther Mallen
 
-## Abstract
+## Abstract:
