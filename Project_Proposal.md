@@ -1,4 +1,4 @@
-# Final Project Proposal
+# Project Proposal
 
 ## Team Members:
 - Jezlea Ortega
