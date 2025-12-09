@@ -1,0 +1,7 @@
+games.csv
+processed/
+aggregates/
+discoverability/
+*.csv
+
+
